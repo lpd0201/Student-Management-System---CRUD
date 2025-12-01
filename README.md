@@ -1,7 +1,6 @@
 # 🎓 Student Management System (Hệ thống Quản lý Sinh viên)
 
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 > Console viết bằng ngôn ngữ C để tự luyện tập về cấp phát bộ nhớ động, con trỏ, các thao tác với Struct và các thao tác với Github.
 
@@ -45,16 +44,6 @@ Bài tập này được dùng để rèn kỹ năng xử lý bộ nhớ động
     * Windows: `.\student_manager.exe`
     * Linux/Mac: `./student_manager`
 
-## 📂 Cấu trúc thư mục (Folder Structure)
-
-```text
-Student-Management-System-C/
-├── images/             # Chứa ảnh demo
-│   ├── menu.png
-│   └── feature.png
-├── main.c              # Source code chính
-├── README.md           # Tài liệu dự án
-└── .gitignore          # File cấu hình git (bỏ qua file .exe)
 
 ## 📞 Liên hệ
-📧 **Email:** [25139008@student.hcmute.edu.vn](mailto:25139008@student.hcmute.edu.vn)
+📧 **Email:** [25139008@student.hcmute.edu.vn]
